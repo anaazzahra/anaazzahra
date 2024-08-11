@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science at Rakamin Academy's bootcamp
 - 💞️ I’m looking to collaborate on data-driven projects, especially those involving data analysis, BI, or research in science and technology studies.
 - 📫 How to reach me https://www.linkedin.com/in/ana-azzahra/
-- 😄 Pronouns: Her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact:  I'm passionate about connecting the dots between data, technology, and societal impacts.
 
 <!---
